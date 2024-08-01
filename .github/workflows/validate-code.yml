@@ -11,5 +11,5 @@ on:
 jobs:
   sfdx-scanner:
     name: "Validate Code"
-    uses: "Szandor72/devops-center-actions/.github/workflows/validate-code.yml@main"
+    uses: "alexandrafanevich/devops-center-actions/.github/workflows/validate-code.yml@main"
     secrets: inherit
