@@ -11,5 +11,5 @@ on:
 jobs:
   validate-deployment:
     name: "SFDX Scanner"
-    uses: "Szandor72/devops-center-actions/.github/workflows/validate-deployment.yml@main"
+    uses: "alexandrafanevich/devops-center-actions/.github/workflows/validate-deployment.yml@main"
     secrets: inherit
